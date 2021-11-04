@@ -1,0 +1,20 @@
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\bin\Debug\Conic Sections 2.exe.config
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\bin\Debug\Conic Sections 2.exe
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\bin\Debug\Conic Sections 2.pdb
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.csprojAssemblyReference.cache
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\obj\Debug\Conic_Sections_2.Form1.resources
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\obj\Debug\Conic_Sections_2.Properties.Resources.resources
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.csproj.GenerateResource.cache
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.csproj.CoreCompileInputs.cache
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.exe
+C:\Users\FAMILY\Desktop\Game Dev\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.pdb
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\bin\Debug\Conic Sections 2.exe.config
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\bin\Debug\Conic Sections 2.exe
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\bin\Debug\Conic Sections 2.pdb
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.csproj.AssemblyReference.cache
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\obj\Debug\Conic_Sections_2.Form1.resources
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\obj\Debug\Conic_Sections_2.Properties.Resources.resources
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.csproj.GenerateResource.cache
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.exe
+C:\Users\ferre\Desktop\Conic Sections 2\Conic Sections 2\obj\Debug\Conic Sections 2.pdb
